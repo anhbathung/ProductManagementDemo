@@ -13,9 +13,7 @@ using Services;
 
 namespace WPFApp
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
+   
     public partial class MainWindow : Window
     {
         private readonly IProductService iProductService;
@@ -88,16 +86,14 @@ namespace WPFApp
 
         private void dgData_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            DataGrid dataGrid = sender as DataGrid;
-            DataGrid row = (DataGridRow)dataGrid.ItemContainerGenerator.ContainerFromIndex(dataGrid.SelectedIndex);
-            DataGridCell RowColumn = dataGrid.Columns[0].GetCellContent(row).Parent as DataGridCell;
-            string id  = ((TextBlock)RowColumn.Content).Text;
-            Product product = iProductService.GetProductById(Int32.Parse(id));
-            txtProductID.Text = product.ProductId.ToString();
-            txtProductName.Text = product.ProductName;
-            txtPrice.Text = product.UnitPrice.ToString();
-            txtUnitsInStock.Text = product.UnitsInStock.ToString();
-            cboCategory.SelectedValue = product.CategoryId;
+            if (dgData.SelectedItem is Product selectedProduct && selectedProduct != null)
+            {
+                txtProductID.Text = selectedProduct.ProductId.ToString();
+                txtProductName.Text = selectedProduct.ProductName;
+                txtPrice.Text = selectedProduct.UnitPrice?.ToString();
+                txtUnitsInStock.Text = selectedProduct.UnitsInStock?.ToString();
+                cboCategory.SelectedValue = selectedProduct.CategoryId;
+            }
         }
 
         private void btnClose_Click(object sender, RoutedEventArgs e)

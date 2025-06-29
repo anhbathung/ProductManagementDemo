@@ -24,20 +24,7 @@ namespace DataAccessLayer
             return listProducts;
         }
 
-        //public static List<Product> GetProducts()
-        //{
-        //    var listProducts = new List<Product>();
-        //    try
-        //    {
-        //        using var db = new MyStoreContext();
-        //        listProducts = db.Products.ToList();
-        //    }
-        //    catch (Exception e)
-        //    {
-        //        throw new Exception(e.Message);
-        //    }
-        //    return listProducts;
-        //}
+        
 
         public static void SaveProduct(Product p)
         {

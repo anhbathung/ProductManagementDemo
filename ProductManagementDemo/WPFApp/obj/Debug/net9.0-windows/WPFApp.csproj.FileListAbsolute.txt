@@ -67,3 +67,12 @@ D:\fpt\CNet\ProjectManagementDemo\ProductManagementDemo\WPFApp\obj\Debug\net9.0-
 D:\fpt\CNet\ProjectManagementDemo\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\WPFApp.pdb
 D:\fpt\CNet\ProjectManagementDemo\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\WPFApp.genruntimeconfig.cache
 D:\fpt\CNet\ProjectManagementDemo\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\ref\WPFApp.dll
+D:\FPTU\S5\PRN291\git-src\ProductManagementDemo\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\WPFApp.csproj.AssemblyReference.cache
+D:\FPTU\S5\PRN291\git-src\ProductManagementDemo\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\LoginWindow.g.cs
+D:\FPTU\S5\PRN291\git-src\ProductManagementDemo\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\FPTU\S5\PRN291\git-src\ProductManagementDemo\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\App.g.cs
+D:\FPTU\S5\PRN291\git-src\ProductManagementDemo\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\WPFApp_MarkupCompile.cache
+D:\FPTU\S5\PRN291\git-src\ProductManagementDemo\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\WPFApp_MarkupCompile.lref
+D:\FPTU\S5\PRN291\git-src\ProductManagementDemo\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\WPFApp.dll
+D:\FPTU\S5\PRN291\git-src\ProductManagementDemo\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\refint\WPFApp.dll
+D:\FPTU\S5\PRN291\git-src\ProductManagementDemo\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\WPFApp.pdb

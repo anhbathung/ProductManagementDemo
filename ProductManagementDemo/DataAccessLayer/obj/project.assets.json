@@ -2762,23 +2762,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JAHY\\.nuget\\packages\\": {},
+    "C:\\Users\\hieut\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\fpt\\CNet\\ProjectManagementDemo\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "D:\\FPTU\\S5\\PRN291\\git-src\\ProductManagementDemo\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "D:\\fpt\\CNet\\ProjectManagementDemo\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj",
-      "packagesPath": "C:\\Users\\JAHY\\.nuget\\packages\\",
-      "outputPath": "D:\\fpt\\CNet\\ProjectManagementDemo\\ProductManagementDemo\\DataAccessLayer\\obj\\",
+      "projectPath": "D:\\FPTU\\S5\\PRN291\\git-src\\ProductManagementDemo\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+      "packagesPath": "C:\\Users\\hieut\\.nuget\\packages\\",
+      "outputPath": "D:\\FPTU\\S5\\PRN291\\git-src\\ProductManagementDemo\\ProductManagementDemo\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\JAHY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hieut\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2793,8 +2793,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\fpt\\CNet\\ProjectManagementDemo\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj": {
-              "projectPath": "D:\\fpt\\CNet\\ProjectManagementDemo\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj"
+            "D:\\FPTU\\S5\\PRN291\\git-src\\ProductManagementDemo\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj": {
+              "projectPath": "D:\\FPTU\\S5\\PRN291\\git-src\\ProductManagementDemo\\ProductManagementDemo\\BusinessObject\\BusinessObject.csproj"
             }
           }
         }
@@ -2836,7 +2836,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
